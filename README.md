@@ -1,4 +1,4 @@
-# 🚦 Traffic Sign Recognition using Deep Learning
+# 🚦 Traffic Sign Recognition using Deep Learning 🚦
 
 <p align="center">
   <img src="media/DriveSafeLogo.png" width="600">
@@ -54,22 +54,22 @@ The final model achieved approximately **99% classification accuracy** on the te
 
 ## Sample Results
 
-### Training Accuracy
+Training Accuracy
 
-<p align="center">
-  <img src="media/training_accuracy.png" width="400">
+<p align="left">
+  <img src="media/DStraining_accuracy.png" width="400">
 </p>
 
-### Training Loss
+Training Loss
 
-<p align="center">
-  <img src="media/losscurve.png" width="400">
+<p align="left">
+  <img src="media/DSlosscurve.png" width="300">
 </p>
 
-### Sample Prediction
+Sample Prediction
 
-<p align="center">
-  <img src="media/sample_prediction.png" width="400">
+<p align="left">
+  <img src="media/DSsample_prediction.png" width="300">
 </p>
 
 Key techniques included:
@@ -104,6 +104,9 @@ traffic-sign-recognition-deep-learning/
 ### Media
 - media/DriveSafeLogo.png
 - media/demo-video-link.md
+- media/DSlosscurve.png
+- media/DSsample_prediction.png
+- media/DStraining_accuracy.png
 
 ### Documentation
 - docs/project-notes.md
