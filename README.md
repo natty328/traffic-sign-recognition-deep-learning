@@ -1,6 +1,8 @@
 # 🚦 Traffic Sign Recognition using Deep Learning
 
-![DriveSafe Logo](media/DriveSafeLogo.png)
+<p align="center">
+  <img src="media/DriveSafeLogo.png" width="600">
+</p>
 
 ## Overview
 DriveSafe is a simulated autonomous vehicle company focused on improving roadway safety through AI and computer vision.
