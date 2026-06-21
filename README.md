@@ -52,6 +52,26 @@ I independently designed, developed, trained, evaluated, and documented this pro
 
 The final model achieved approximately **99% classification accuracy** on the test dataset using the Adam optimizer.
 
+## Sample Results
+
+### Training Accuracy
+
+<p align="center">
+  <img src="media/training_accuracy.png" width="400">
+</p>
+
+### Training Loss
+
+<p align="center">
+  <img src="media/losscurve.png" width="400">
+</p>
+
+### Sample Prediction
+
+<p align="center">
+  <img src="media/sample_prediction.png" width="400">
+</p>
+
 Key techniques included:
 
 - Data preprocessing
