@@ -11,6 +11,11 @@ My objective was to develop a deep learning model capable of recognizing traffic
 Accurate traffic sign recognition is an important part of autonomous driving systems. It enables cars to respond safely to traffic situations.
 This project was completed as part of Machine Learning Foundations coursework and demonstrates the application of Convolutional Neural Networks (CNNs) to a real world computer vision problem.
 
+### Project Demonstration
+
+Demo Video:
+[Watch the project demonstration](https://youtu.be/FJBbcfR6YPw)
+
 ---
 
 ## Problem Statement
